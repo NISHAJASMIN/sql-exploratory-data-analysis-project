@@ -10,3 +10,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
+I'm **Nisha Jasmin**, an MCA student and passionate **Data Analyst**.  
+I focus on data cleaning, visualization, and reporting using **SQL** and **Excel**.  
+📊 Always learning and exploring new ways to tell stories through data.
+
+🔗 **Connect with me on [LinkedIn](/https://www.linkedin.com/in/nisha-jasmin-c-104789222/)**
